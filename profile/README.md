@@ -1,4 +1,4 @@
-# 🏠 Rentio.tj
+# 🏠 Manzilo.tj
 
 **Modern short-term rental platform in Tajikistan 🇹🇯**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 About
 
-**Rentio.tj** is a proptech platform transforming the **rental market in Tajikistan**.  
+**Manzilo.tj** is a proptech platform transforming the **rental market in Tajikistan**.  
 We connect property owners with tenants through a seamless, secure, and scalable digital experience.
 
 Our platform simplifies how users **discover, book, and manage rental properties**, bringing transparency and efficiency to a traditionally fragmented market.
