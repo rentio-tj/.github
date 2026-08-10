@@ -1,4 +1,4 @@
-# 🏠 Manzilo.tj
+# 🏠 Manzilo
 
 **Modern short-term rental platform in Tajikistan 🇹🇯**
 
